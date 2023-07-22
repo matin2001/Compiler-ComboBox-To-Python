@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+  <to>Tove</to>
+  <from>Jani</from>
+  <heading>Reminder</heading>
+  <body>Don't forget me this weekend!</body>
+<food>
+    <name>Homestyle Breakfast</name>
+    <price>$6.95</price>
+    <description>
+    Two eggs, bacon or sausage, toast, and our ever-popular hash browns
+    </description>
+    <calories>950</calories>
+</food>
+
+<radiobutton name="radio">
+    <text>Option 1</text>
+    <value>1</value>
+    <variable>radio_var</variable>
+</radiobutton>
+
+
+<combobox id="1" name="first combo" value="cucumber">
+    <item>Option 1</item>
+    <item>Option 2</item>
+    <item>Option 3</item>
+</combobox>
+
+<listbox type="list">
+    <values>
+        <value>Option 1</value>
+        <value>Option 2</value>
+        <value>Option 3</value>
+    </values>
+    <selectmode>extended</selectmode>
+    <height>5</height>
+</listbox>
+
+<combobox id="2" name="second combo" value="apple">
+    <item>Option 1</item>
+    <item>Option 2</item>
+    <item>Option 3</item>
+</combobox>
+
+<checkbutton name="checking">
+    <text>Check me!</text>
+</checkbutton>
+
+<combobox id="3" name="third combo" value="banana">
+    <item>Option 1</item>
+    <item>Option 2</item>
+    <item>Option 3</item>
+</combobox>
+
+</note>
+
